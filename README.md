@@ -1,3 +1,20 @@
+# React Youtube Application
+
+Simple React that uses Youtube Api to fetch videos, makes use of lodash for the search input.
+
+### How to run
+
+```
+> git clone
+> open directory
+> npm install
+> npm start
+```
+
+
+
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
